@@ -1,0 +1,999 @@
+linksys
+<no ssid>
+NETGEAR
+dlink
+default
+hpsetup
+BTWiFi-with-FON
+BTWIFI
+FreeWifi
+belkin54g
+wireless
+FreeWifi_secure
+Ziggo
+BTFON
+Home
+BTOpenzone
+no_ssid
+SFR WiFi Mobile
+eduroam
+WLAN
+Use this one mom
+SFR WiFi Public
+TELENETHOMESPOT
+FRITZ!Box Fon WLAN 7170
+FRITZ!Box Fon WLAN 7112
+BTOpenzone-H
+Guest
+asus
+attwifi
+xfinitywifi
+FRITZ!Box Fon WLAN 7270
+orange
+AndroidAP
+cablewifi
+Free Public WiFi
+SFR WiFi FON
+ZyXEL
+ACTIONTEC
+setup
+FON_BELGACOM
+0001softbank
+internet
+Fritz!Box Fon WLAN 7390
+freephonie
+Tp-link
+SMC
+VOIP
+FRITZ!Box Fon WLAN 7113
+SWS1day
+optimumwifi
+FON_ZON_FREE_INTERNET
+FON_FREE_INTERNET
+TWCWiFi
+portthru
+Sitecom
+BELTELECOM WIFI
+Motorola
+<hidden ssid>
+hhonors
+U+zone
+iptime
+Bouygues Telecom Wi-Fi
+MyPlace
+FRITZ!Box 6360 Cable
+airportthru
+FRITZ!Box 7312
+orange12
+wlan-ap
+FRITZ!Box WLAN 3170
+ollehWiFi
+MSHOME
+FRITZ!Box Fon WLAN 7240
+o2DSL
+FRITZ!Box Fon WLAN 7320
+dd-wrt
+Neuf WiFi
+au_Wi-Fi
+FRITZ!Box 7330 SL
+3Com
+FRITZ!Box Fon WLAN 7141
+D-LINK
+wifi
+Concrete
+rebar
+101
+Wi2premium
+HomeNet
+BTOpenzone-B
+logitecgameuser
+TrendNET
+logitecuser
+tsunami
+FRITZ!Box WLAN 3270
+FON_NETIA_FREE_INTERNET
+Wi2premium_club
+FRITZ!Box Fon WLAN 7360
+HTC Portable Hotspot
+Speedport W 501V
+myLGNet
+DIR-300NRU
+Philips WiFi
+THOMSON
+ALICE-WLAN
+tmobile
+skynet
+Fon
+Casa
+office
+Netcomm Wireless
+Linksys-G
+docomo
+FRITZ!Box Fon WLAN 7170 Annex A
+Wayport_Access
+Telekom
+FRITZ!Box WLAN 3131
+HomeDepot Public Wi-Fi
+FRITZ!Box Fon WLAN 7050
+bandsaw
+ConnectionPoint
+TENDA
+Lowes-Guest-WiFi
+Dom
+airport
+ZTE
+A9F1BDF1DAB1NVT4F4F59
+FRITZ!Box 6340 Cable
+CMCC
+NetFasteR IAD 2 (PSTN)
+USR8054
+au_Wi-Fi2
+T wifi zone
+Home Network
+iPhone
+NETGEAR-2.4-G
+<no ssid>
+_The Cloud
+public
+Zoom
+ShawOpen
+T wifi zone_secure
+guestnet
+NETGEAR1
+test
+WebSTAR
+mobile
+NetWork
+FRITZ!Box Fon WLAN 7340
+virus
+ANY
+TELE2
+belkin
+CMCC-AUTO
+Tele2-modem
+DSLWLANModem200
+HOL ALU WLAN
+0000docomo
+cisco
+swisscom
+FRITZ!Box Fon WLAN 7360 SL
+plusnetwireless
+str241xipv
+Private
+Alex
+Homenetwork
+CG-Guest
+EdiMAX
+DLINK_WIRELESS
+hol - NetFasteR WLAN 3
+netgear-guest
+Orange_FunSpot
+Target Guest Wi-Fi
+Wireless Network
+Customer ID
+Voice
+freebox
+Gateway
+ADSL-WIFI
+Dynex
+planexuser
+NETGEAR-24-G
+InfostradaWiFi
+SpeedStream
+david
+router
+Sweex LW050v2
+Virgin Broadband
+SST-PR-1
+PT-WIFI
+NETGEAR_Guest1
+FRITZ!Box SL WLAN
+My Network
+ibahn
+0002softbank
+Airlive
+DSL_2640NRU
+kabelinternet
+orange14
+DIR-615
+admin
+MOBILE-EAPSIM
+[unknown]
+FRITZ!Box Fon WLAN 7570 vDSL
+Mywlan
+backup
+Tiscali
+pocwyg7swean
+KPN
+Connectify-me
+Home1
+net
+House
+Bright House Networks
+Draytek
+Hotspot
+OWNER-PC_Network
+Buffalo
+Apple
+SYNC_00000000
+mike
+DV201AM
+Beeline_WiFi_WPA
+vizio
+john
+thuis
+Visitor
+USR5461
+EMINENT
+martin
+FRITZ!Box 7330
+Matrix
+chris
+myhome
+HOMERUN
+WirelessICC
+O2 WIFI
+Student
+Marriott_Guest
+TRENDnet652
+FRITZ!Box 6320 Cable
+orange13
+7357asM
+DIR-320NRU
+Wi-Fi
+draadloos
+@Home
+AndroidTether
+Beeline_WiFi
+FRITZ!Box WLAN 3370
+corega
+AirLink89300
+DIR-620
+Michael
+ICIDU
+<hidden ssid>
+SMITH
+ChinaNet
+maison
+Maria
+Apple Network
+NETGEAR_EXT
+mycloud
+CHT Wi-Fi(HiNet)
+MyNetwork
+Pentagram
+NESPOT
+philips
+Home Wireless
+University of Washington
+3210 Phone WLAN SL
+M4m786iA
+GVT
+devolo
+airlink59300
+megahoc.v22
+Free Internet Access
+WirelessNet
+GlobalSuiteWireless
+kt_wlan
+thomas
+WaveLAN Network
+DIR-300NRUB6
+pretty fly for a wifi
+Robert
+DANIEL
+Anygate
+FRITZ!Box Gastzugang
+Johnson
+staff
+FON_MTS
+megahoc.v24
+Max
+str241xvce
+Print Server
+GDS VCI 01
+Wi-Fi Arnet
+arris54g
+comcast
+NTT-SPOT
+wireless1
+YOTA
+BLUE
+TRENDnet651
+HomeWireless
+WirelessSGF
+linksys1
+james
+myTouch 4G Hotspot
+bob
+george
+Fullrate
+samsung
+doma
+SSID
+Pod
+Wi2
+WiFi-Repeater1
+PJ-WIRELESS5
+BeBox
+laQuinta
+nomad5
+FON_FREE_ssid
+vpnator
+ciscosb
+INTERMEC
+UPC WifiSpots
+Green
+family
+homewifi
+NETGEAR01
+Hyatt
+ZyXEL_ABGN_1
+serviceswifi
+FRITZ!Box Fon WLAN 7113 Annex A
+pccw
+Paul
+goesh
+FREE_U+zone
+MINE
+mywifi
+Peter
+c2_free
+mark
+FRITZ!Box Fon WLAN
+netgear12
+Domek
+ArcorWirelessLAN
+FRITZ!Box 6320 v2 Cable
+anna
+steve
+netgear11
+Williams
+GIGABYTE
+XLNTelecom
+megahoc.v29
+timewarnercablewifi
+NetFasteR IAD (PSTN)
+NETGEAR24
+Untitled
+188
+redwood
+yournetworkname
+vendcust
+DIR-300
+yrneh09
+homebase
+WLAN-TWDC
+G604T_WIRELESS
+NETGEAR2
+CHT Wi-Fi Auto
+ethostream
+Sunshine
+wirelessmobile
+asu
+NETGEAR10
+beeline-router
+onlime
+Sam
+Motel 6
+NETGEAR22
+scott
+NETGEAR13
+jones
+Angel
+DIR-300NRUB7
+KEVIN
+NETGEAR28
+@TRUEWIFI
+NETGEAR23
+HTC network
+MyNet
+KD WLAN Hotspot+
+Link
+AMD_IBSS
+ONTelecoms
+Linksys2
+Charlie
+Netgear88
+NETGEAR55
+SMCWBR14S-N4_AP
+ABC
+NETGEAR25
+WIS
+Miller
+NETGEAR99
+DLinkVWR
+AP
+NETGEAR16
+Auto-BTWiFi
+RGIS
+NETGEAR19
+USER-PC_Network
+<Hidden Network>
+GoldenTree
+NETGEAR15
+netgear27
+netgear69
+msftwlan
+NETGEAR77
+Wi2_club
+NETGEAR21
+NETGEAR71
+NETGEAR07
+NETGEAR50
+NETGEAR20
+brown
+HG520b
+NETGEAR75
+NETGEAR32
+Fibertel WiFi
+NETGEAR51
+MIT
+NETGEAR36
+NETGEAR45
+NETGEAR85
+NETGEAR26
+NETGEAR47
+netgear44
+Netgear18
+P874
+NETGEAR40
+NETGEAR38
+Netgear09
+<any ssid>
+NETGEAR33
+NETGEAR08
+NETGEAR41
+NETGEAR05
+NETGEAR35
+NETGEAR46
+NETGEAR53
+NETGEAR00
+Netgear30
+NETGEAR80
+netgear31
+NETGEAR17
+NETGEAR68
+netgear54
+Panasonic Display1
+NETGEAR34
+MSI
+NETGEAR93
+NETGEAR79
+netgear02
+D35Broadband
+NETGEAR86
+NETGEAR03
+NETGEAR84
+NETGEAR42
+NETGEAR49
+NETGEAR87
+NETGEAR04
+NETGEAR39
+Netgear57
+NETGEAR-5G
+NETGEAR74
+NETGEAR48
+Frank
+NETGEAR70
+NETGEAR60
+netgear29
+NETGEAR64
+NETGEAR43
+NETGEAR81
+NETGEAR37
+NETGEAR90
+HG520s
+NETGEAR65
+NETGEAR97
+Boingo Hotspot
+NETGEAR92
+NETGEAR72
+netgear76
+NETGEAR63
+NETGEAR14
+Netgear91
+wilson
+NETGEAR62
+IBM
+WEST
+NETGEAR52
+NETGEAR82
+NETGEAR89
+NETGEAR67
+NETGEAR95
+Netgear61
+NETGEAR59
+NETGEAR66
+netgear83
+FRITZ!Box Fon WLAN 7140 Annex A
+NETGEAR58
+NETGEAR56
+Guest Network
+NETGEAR06
+NETGEAR94
+NETGEAR78
+FRITZ!Box o2 DSL
+NETGEAR73
+LDSAccess
+NETGEAR98
+asu guest
+jason
+FBI Surveillance Van
+DGC
+MO1975
+NETGEAR96
+Linda
+OTE CONNX
+TDPJ
+AirLink29150
+mywireless
+richard
+TalkTalk520
+BESTBUY
+GuestWiFi
+vodafone
+PCCW1x
+Netgear123
+DOVADO
+laura
+unknown
+Guest_Access
+lee
+beltelecom
+speedywifi
+verizon
+spruce
+GoogleGuest
+LISA
+wlan1
+Courtyard_Guest
+taylor
+tom
+Tony
+IWIFI
+FDS020
+UBNT
+Gast
+home2
+HCSC
+jack
+SMARTSIGHT
+<No current ssid>
+CONNX
+ZIO
+fred
+BLIZZARD
+0001docomo
+OomP243aLi37CiOUsLoOM777Pa361LIc
+HomeSweetHome
+Siemenswlan
+megahoc.v25
+pi07490509x09
+Macysfreewifi
+CORP
+Carlos
+megahoc
+mary
+brian
+D3GN_SSID0
+GABLE
+pi07490509x
+EAGLE
+Kelly
+topcom
+jackson
+quality
+BBUser
+DSL-2640R
+King
+dave
+fritz
+P123456789
+dlink1
+AMX
+anderson
+Broadcom
+IU SECURE
+mprotek
+Adam
+wirelesslan
+Inet
+demo
+Michelle
+123
+sarah
+Universities via PCCW
+APTG Wi-Fi
+andy
+WLI
+Joe
+1234
+Tiger
+davis
+Intellinet
+sandra
+Kim
+IU Guest
+google
+dd-wrt_vap
+eo
+WORKGROUP
+Hotel
+zuhause
+Orcon-Wireless
+2WIRE631
+uofm
+Marina
+Belkin_G_Wireless_
+FRITZ!Box
+monkey
+wireless2
+WiFi Zone - The Cloud
+rjjrjg14
+Bella
+RYAN
+Andrew
+FRITZ!Box 7362 SL
+My Place
+0
+Sonicwall
+planexuser-wps
+PCX5000
+unicorn
+VIVACOM_NET
+studio
+ChinaUnicom
+Andrea
+karen
+rose
+mobilepoint
+subway
+simon
+jessica
+helloWireless
+Eric
+Wi-Fi Router
+DRI_vista
+fanTM
+hawking
+Oscar
+BTWifi-X
+GuestAccess
+NETGEAR-DualBand-N
+PHOENIX
+Edimax AP
+1
+188ALT
+Virgin
+secure
+Mac
+repeater
+SCN
+VOO_HOMESPOT
+VirginBroadband
+USR5462
+laptop
+jennifer
+coxwifi
+PANAREA
+orion
+RED
+Guests
+OSUWIRELESS
+eo_802.1X
+FON_AP
+V1500
+upstairs
+homerun1x
+MetroWifi
+jeff
+PCCW Free
+megahoc.v23
+thompson
+Tele2-2
+TPLINK
+Speedy
+alpha
+NETGEAR_11G
+privat
+eo_WPA2/AES
+DATA
+mario
+LWL-M
+HomeOffice
+BAILEY
+Leo
+prn
+MTS/FON
+patrick
+Enterprise
+holidayinn
+FritzBox
+freedom
+33
+ICNwireless
+RetailWifi
+DRAGON
+tele2-1
+Harvard University
+t-com
+Dan
+NetCore
+nick
+ATT256
+Spectrum
+nelson
+linksys-n
+AirPort Extreme
+apollo
+eurospot
+FRITZ!WLAN REPEATER N/G
+Barq
+RSS-351540
+SHC-RF-DS-3
+att296
+comtrend
+Alice
+sweethome
+ATT080
+ATT672
+ATT448
+netis
+ATT464
+ATT056
+ATT624
+ATT760
+ATT128
+att328
+ATT688
+ATT280
+ATT424
+megahoc.21
+ATT336
+lucky
+ATT384
+ATT824
+ATT200
+ATT032
+ATT976
+ATT800
+ATT104
+ATT888
+matt
+ATT184
+ATT136
+ATT488
+kirklandsignature
+ATT856
+ATT968
+ATT584
+ATT024
+Swisscom_Auto_Login
+ATT544
+ATT088
+ATT616
+ATT240
+ATT120
+VICTOR
+ATT008
+ATT904
+ATT224
+ATT896
+ATT232
+ATT936
+amanda
+olga
+ATT560
+ATT408
+ATT248
+ATT064
+ATT952
+ATT432
+ATT416
+ATT872
+att728
+ATT696
+ATT472
+att360
+ATT504
+Ativa54g
+ATT752
+ATT768
+ATT344
+ATT640
+elena
+ATT832
+ATT400
+Shadow
+ATT840
+ATT912
+ATT320
+Julia
+bridge
+Engenius1
+ATT864
+ATT720
+A-MSFTWLAN
+m3connect
+ATT392
+att112
+ATT776
+ATT456
+princess
+Nicole
+ATT600
+ATT552
+ATT304
+ATT512
+ATT656
+ATT096
+ATT848
+ATT704
+ATT520
+ATT496
+ATT192
+NANCY
+ATT576
+ATT632
+Nordstrom_Wi-Fi
+ATT960
+MM
+ATT176
+ATT144
+stayonline
+ATT664
+ATT272
+ATT784
+ATT744
+ATT608
+ATT216
+ATT480
+Tbroadnet
+ATT808
+ATT568
+ATT992
+ATT920
+ATT736
+ATT288
+ATT048
+HOFFMAN
+ATT792
+ATT208
+ATT440
+ATT168
+ATT928
+N47973D
+home_network
+SO070VOIP
+AP1
+ATT712
+daisy
+ATT592
+ATT040
+Diana
+ATT944
+ATT880
+ATT376
+ASUS_5G
+ATT536
+WiFly
+ATT160
+ATT016
+ATT072
+ATT816
+meijer-corp
+ATT352
+ATT528
+ATT152
+xxx
+FRITZ!Box WLAN 3050
+ATT984
+ATT312
+ATT648
+ATT680
+PANERA
+meins
+2WIRE123
+ATT264
+conexant
+ATT000
+william
+ATT368
+Cooper
+wlan.stockholm.se
+USR5463
+rocky
+jose
+p27x1c2
+innflux
+IPAD
+2WIRE007
+Maggie
+murphy
+Apple Store
+Garcia
+T wifi home
+zeus
+hercules
+IVAN
+wlan2
+Wireless@SG
+martinez
+Susan
+henry
+guest.stockholm.se
+LUCY
+white
+2WIRE232
+Hawking_300N_Extender
+2WIRE220
+2WIRE189
+2WIRE433
+2WIRE093
+AMILOCALLINK
+MSFTGUEST
+BATCAVE
+Bill
+2WIRE456
+2WIRE616
+Victoria
+Telenor
+2WIRE166
+2WIRE325
+blitzz
+PEGGS-M6
+2WIRE345
+Multibox 7270 NGN
+Barbara
+2WIRE777
+sara
+2WIRE233
+ourhouse
+2WIRE188
+2WIRE313
+2WIRE298
+2WIRE205
+2WIRE135
+2WIRE650
+2WIRE368
+2WIRE226
+jim
+2WIRE555
+2WIRE411
+2WIRE202
+2WIRE145
+2WIRE292
+2WIRE565
+2WIRE234
+2WIRE715
+2WIRE377
+Sinus W 500V
+2WIRE700
+2WIRE138
+2WIRE307
+2wire420
+2WIRE321
+2WIRE206
+2WIRE187
+2WIRE237
+2WIRE031
+2WIRE365
+2WIRE261
+2WIRE847
+2WIRE454
+2WIRE129
+2WIRE525
+2WIRE263
+2WIRE545
+2WIRE192
+2WIRE844
+2WIRE283
+2WIRE150
+2WIRE768
+2WIRE646
+2WIRE335
+2WIRE039
+2WIRE367
+2WIRE309
+2WIRE430
