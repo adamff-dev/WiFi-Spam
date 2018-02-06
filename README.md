@@ -31,3 +31,5 @@ MACCHANGER `sudo apt-get install macchanger` https://github.com/alobbs/macchange
     2.2 Method 2 Manualy add sources and install packages listed above
 
   3. Run the script `sudo WiFiSpam.sh`
+  
+Thanks <a href="https://github.com/digmorepaka">@digmorepaka!</a>
