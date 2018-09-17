@@ -11,6 +11,7 @@ clear
 title
 echo -e "\e[1;31m   Thanks for using this script"
 echo -e "   My GitHub: \e[1;37mhttps://github.com/BlueArduino20"
+service network-manager start
 exit
 }
 
@@ -45,6 +46,7 @@ echo -n -e "\e[1;37m"
 read DD
 clear
 if [ $DD == 1 ]; then
+	service network-manager stop
 	clear
 	title
 	echo -e "\e[1;32mStarting process..."
@@ -60,6 +62,7 @@ if [ $DD == 1 ]; then
 	mdk3 $AD b -f ./SSID_List.txt -a -s 1000
 fi
 if [ $DD == 2 ]; then
+	service network-manager stop
 	clear
 	title
 	echo -n -e "\e[1;34mWrite your string/word (Max. length: 12) > "
@@ -88,6 +91,7 @@ if [ $DD == 2 ]; then
 	mdk3 $AD b -f ./$WORD"_wordlist.txt" -a -s 1000
 fi
 if [ $DD == 3 ]; then
+	service network-manager stop
 	title
 	echo -e "\e[1;37mPlease, note that your word list must have the same structure as SSID_List.txt, otherwise the process won't work."
 	echo " "
@@ -108,6 +112,7 @@ if [ $DD == 3 ]; then
 	mdk3 $AD b -f ./$OWN -a -s $(wc -l $OWN | cut -f1 -d ' ')
 fi
 if [ $DD == 4 ]; then
+	service network-manager stop
 	title
 	echo -n -e "\e[1;34mHow many SSIDs do you want? > "
 	echo -n -e "\e[1;37m"
