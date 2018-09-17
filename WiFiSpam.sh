@@ -7,11 +7,11 @@ clear
 >nul iwconfig $AD mode managed
 >nul ifconfig $AD up
 >nul rm RANDOM_wordlist.txt
+>nul service network-manager start
 clear
 title
 echo -e "\e[1;31m   Thanks for using this script"
 echo -e "   My GitHub: \e[1;37mhttps://github.com/BlueArduino20"
-service network-manager start
 exit
 }
 
