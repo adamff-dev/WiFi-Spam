@@ -32,4 +32,4 @@ MACCHANGER `sudo apt-get install macchanger` https://github.com/alobbs/macchange
 
   3. Run the script `sudo WiFiSpam.sh`
   
-Thanks to<a href="https://github.com/digmorepaka">@digmorepaka</a>.
+Thanks to <a href="https://github.com/digmorepaka">@digmorepaka</a>.
