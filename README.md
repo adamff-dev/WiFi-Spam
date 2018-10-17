@@ -1,7 +1,11 @@
 # WiFi Spam
 This script allows you to spam thousands of WiFi SSIDs.
 
-<img src="https://raw.githubusercontent.com/BlueArduino20/WiFi-Spam/master/Screnshot_02.png">
+<img src="https://raw.githubusercontent.com/BlueArduino20/WiFi-Spam/master/img/2.png">
+
+<img src="https://raw.githubusercontent.com/BlueArduino20/WiFi-Spam/master/img/1.png">
+
+<img width="225" height="385" src="https://raw.githubusercontent.com/BlueArduino20/WiFi-Spam/master/img/3.jpg">
 
 ## Notes
 
