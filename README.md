@@ -20,6 +20,8 @@ MDK3 `sudo apt-get install mdk3`: https://github.com/wi-fi-analyzer/mdk3-master
 
 MACCHANGER `sudo apt-get install macchanger` https://github.com/alobbs/macchanger
 
+PWGEN `sudo apt-get install pwgen`
+
 ## Instalation and usage
 
   1. Download the files `git clone https://github.com/BlueArduino20/WiFi-Spam.git`
