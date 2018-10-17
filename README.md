@@ -1,13 +1,13 @@
 # WiFi Spam
-This script allows you to spam WiFi APs/SSIDs
+This script allows you to spam thousands of WiFi SSIDs.
 
 <img src="https://raw.githubusercontent.com/BlueArduino20/WiFi-Spam/master/Screnshot_02.png">
 
 ## Notes
 
-- This script allows you to generate the number of APs that you want, unless you're using the default word list (1000 APs).
+- This script allows you to generate the number of SSIDs that you want, unless you're using the default word list (1000 SSIDs).
 
-- If you are going to use the 4th option I recommend you generate up to ~5000 APs
+- If you are going to use the 4th option I recommend you generate up to ~5000 SSIDs
 
 - Some Intel® Hardware In particular Centrino are known to cause problems becuase of the way mdk3 works.
 
@@ -32,4 +32,4 @@ MACCHANGER `sudo apt-get install macchanger` https://github.com/alobbs/macchange
 
   3. Run the script `sudo WiFiSpam.sh`
   
-Thanks <a href="https://github.com/digmorepaka">@digmorepaka!</a>
+Thanks to<a href="https://github.com/digmorepaka">@digmorepaka</a>.
