@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # TERMINAL COLORS
-# https://github.com/BlueArduino20/terminal-colors
+# https://github.com/1225K/terminal-colors
 NO_COLOR="\e[0m"
 WHITE="\e[0;17m"
 BOLD_WHITE="\e[1;37m"
