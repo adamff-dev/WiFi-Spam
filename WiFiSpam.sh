@@ -33,7 +33,7 @@ nmcli device connect $AD > /dev/null 2>&1
 clear
 title
 echo -e "$BOLD_RED   Thanks for using this script"
-echo -e "   My GitHub:$BOLD_WHITE https://github.com/BlueArduino20"
+echo -e "   My GitHub:$BOLD_WHITE https://github.com/125K"
 exit
 }
 
@@ -44,7 +44,7 @@ echo "   | | /| / / / /_  / /   \\__ \\/ __ \\/ __ \`/ __ \`__ \\"
 echo "   | |/ |/ / / __/ / /   ___/ / /_/ / /_/ / / / / / /"
 echo "   |__/|__/_/_/   /_/   /____/ .___/\\__,_/_/ /_/ /_/"
 echo "                            /_/                      "
-echo -e "$BOLD_WHITE                                     By BlueArduino20  "
+echo -e "$BOLD_WHITE                                           By 125K  "
 echo " "
 }
 
