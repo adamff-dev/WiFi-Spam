@@ -30,7 +30,7 @@ PWGEN `sudo apt-get install pwgen`
 
 ## Instalation and usage
 
-  1. Download the files `git clone https://github.com/BlueArduino20/WiFi-Spam.git`
+  1. Download the files `git clone https://github.com/125K/WiFi-Spam.git`
 
   2. Dependencie instalation
 
