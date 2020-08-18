@@ -30,6 +30,8 @@ MACCHANGER `sudo apt-get install macchanger` https://github.com/alobbs/macchange
 
 PWGEN `sudo apt-get install pwgen`
 
+- Dependencie installation for Arch Linux: `sudo pacman -S mdk3 macchanger pwgen`
+
 ## Instalation and usage
 
   1. Download the files `git clone https://github.com/125K/WiFi-Spam.git`
