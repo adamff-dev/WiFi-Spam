@@ -1,4 +1,10 @@
 # WiFi Spam
+
+## Disclaimer
+This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
+
+## About this project
+
 This script allows you to spam thousands of WiFi SSIDs.
 
 <img src="https://raw.githubusercontent.com/adam24exe/WiFi-Spam/master/img/2.png">
@@ -53,6 +59,3 @@ Thanks to <a href="https://github.com/digmorepaka">@digmorepaka</a>.
 
 - **ESP8266 WiFi Captive Portal**: :key: WiFi captive portal for ESP8266 for phishing WiFi passwords.
   - https://github.com/125K/ESP8266_WiFi_Captive_Portal
-  
-## Disclaimer
-This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
