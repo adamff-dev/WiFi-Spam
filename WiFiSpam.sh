@@ -1,4 +1,4 @@
-#!/bin/bash
+bố m là Giang
 
 # TERMINAL COLORS
 # https://github.com/1225K/terminal-colors
